@@ -1,3 +1,11 @@
+/*
+_____________________Assumptions made______________________
+
+1: All input characters are  english alphabets (A-Z && a-z)
+2: No spaces between characters 
+3: Substring with repeating characters are ignored 
+*/
+
 #include <cassert>
 #include<iostream>
 #include<string>
